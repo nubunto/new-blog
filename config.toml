@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://my-blog.nubunto.vercel.app"
 languageCode = "en-us"
 title = "Bruno Panuto"
 theme = "ananke"
